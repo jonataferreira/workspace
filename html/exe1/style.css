@@ -1,10 +1,13 @@
 body{
     background: #cccccc;
+    width: 900px;
+    margin: auto;
 }
 
 .photo{
     border-radius: 50%;
     border: 3px solid #000;
+    background: #fff;
 
 }
 .title, .subtitle, .posttitle {
@@ -21,17 +24,21 @@ body{
 }
 
 .postcontent{
+    
+    font-size: 20px;
     margin: 0px;
     margin-bottom: 15px;
     border-radius: 50px;
     font-family: Blackadder ITC; 
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .image{
-    width: 500px;
-    height: 350px;
+    height: 500px;
     margin-bottom: 15px;
+    width: 100%;
+    margin: auto;
     }
 
 .post{
