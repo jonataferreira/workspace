@@ -1,6 +1,9 @@
-# Repositório Workspace / Workspace Repository
+# Repositório Workspace 
+# Workspace Repository
 
-- Repositório com exercícios e práticas diversas / Repository with various exercises and practices
+- Repositório com exercícios e práticas diversas 
+
+- Repository with various exercises and practices
 
 
 Tais práticas estão disponiveis na árvore chamada "master" deste repositório 
