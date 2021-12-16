@@ -2,8 +2,8 @@
 
 - Repositório com exercícios e práticas diversas 
 
-Tais práticas estão disponiveis na árvore chamada "master" deste repositório 
-link: *https://github.com/jonataferreira/workspace/tree/master*
+Tais práticas estão disponiveis na árvore chamada "master" deste repositório. 
+Link: *https://github.com/jonataferreira/workspace/tree/master*
 
 
 # *Workspace Repository*
