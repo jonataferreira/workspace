@@ -11,4 +11,4 @@ link: *https://github.com/jonataferreira/workspace/tree/master*
 - Repository with various exercises and practices
 
 These practices are available in the tree called "master" of this repository.
-Shortcut link: *https://github.com/jonataferreira/workspace/tree/master
+Shortcut link: *https://github.com/jonataferreira/workspace/tree/master*
